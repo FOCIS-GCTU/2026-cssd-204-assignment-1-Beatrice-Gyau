@@ -26,8 +26,8 @@ def main():
     print("...MM..MMMM..MM........GG........GG........BB........BB.....")
     print("...MM..MMMM..MM........GG........GG........BB........BB.....")
     print("...MM...MM...MM........GG........GG........BB........BB.....")
-    print("...MM...MM...MM...*...GG........GG......BB........BB...*")
-    print("...MM...MM...MM...*....GGGGGGGGGG.......BBBBBBBBBB.....*")
+    print("...MM...MM...MM...**...GG........GG...**...BB........BB...**")
+    print("...MM...MM...MM...**....GGGGGGGGGG....**...BBBBBBBBBB.....**")
 
     print()
 
